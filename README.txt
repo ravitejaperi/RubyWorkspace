@@ -1,1 +1,2 @@
-Hello Every one Learnin how to use Git
+Hello Every one Learning how to use Git
+Hello Every one Learning how to use Git
